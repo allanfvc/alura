@@ -8,8 +8,12 @@ O foco no aprendizado para 2021 se dá na melhores práticas de código, e de de
 ## Formações cursadas
 
 ## Formações em andamento
-[![Formação android](https://github-readme-stats.vercel.app/api/pin?username=allanfvc&repo=alura-formacao-android&show_owner=true)](https://github.com/allanfvc/alura-formacao-android)
-
+<a href="https://github.com/allanfvc/alura-formacao-android">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=allanfvc&repo=alura-formacao-android&show_owner=true" />
+</a>
+<a href="https://github.com/allanfvc/alura-formacao-testes-android">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=allanfvc&repo=alura-formacao-testes-android&show_owner=true" />
+</a>
 
 ## Sobre o versionamento e padrão de commits
 Como esse projeto não se utiliza de nenhum gerenciado de pacotes ou arquivo de versionamento, para manter um padrão de commits rastreável decidir utilizar o seguinte versionamento:
