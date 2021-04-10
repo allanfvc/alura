@@ -1,0 +1,3 @@
+[submodule "formacoes/android"]
+	path = formacoes/android
+	url = git@github.com:allanfvc/alura-formacao-android.git
